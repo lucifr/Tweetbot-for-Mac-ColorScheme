@@ -16,5 +16,5 @@ The Night theme is based on the iOS version.
 
 ## Notice
 
-* It's NOT thoroughly tested. There might be some unmatching colors.
+* It's NOT thoroughly tested. There might be some unmatched colors.
 * Pull reguests welcome.
