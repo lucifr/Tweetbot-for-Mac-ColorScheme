@@ -372,28 +372,18 @@
 		</dict>
 		<key>loader.background</key>
 		<dict>
-			<key>a</key>
-			<integer>26</integer>
 			<key>w</key>
-			<integer>0</integer>
+			<integer>51</integer>
 		</dict>
 		<key>loader.primary</key>
 		<dict>
-			<key>b</key>
-			<integer>100</integer>
-			<key>h</key>
-			<integer>212</integer>
-			<key>s</key>
-			<integer>100</integer>
+			<key>w</key>
+			<integer>77</integer>
 		</dict>
 		<key>loader.secondary</key>
 		<dict>
-			<key>b</key>
-			<integer>100</integer>
-			<key>h</key>
-			<integer>212</integer>
-			<key>s</key>
-			<integer>70</integer>
+			<key>w</key>
+			<integer>153</integer>
 		</dict>
 		<key>main_tab_bar.account_unread</key>
 		<dict>
@@ -1448,22 +1438,22 @@
 		<key>profile.action_button</key>
 		<dict>
 			<key>b</key>
-			<integer>100</integer>
-			<key>h</key>
-			<integer>212</integer>
-			<key>s</key>
-			<integer>100</integer>
+			<integer>255</integer>
+			<key>g</key>
+			<integer>176</integer>
+			<key>r</key>
+			<integer>102</integer>
 		</dict>
 		<key>profile.action_button_highlighted</key>
 		<dict>
 			<key>a</key>
 			<integer>179</integer>
 			<key>b</key>
-			<integer>100</integer>
-			<key>h</key>
-			<integer>212</integer>
-			<key>s</key>
-			<integer>100</integer>
+			<integer>255</integer>
+			<key>g</key>
+			<integer>176</integer>
+			<key>r</key>
+			<integer>102</integer>
 		</dict>
 		<key>profile.background</key>
 		<dict>
@@ -1656,7 +1646,7 @@
 			<key>h</key>
 			<integer>212</integer>
 			<key>s</key>
-			<integer>30</integer>
+			<integer>80</integer>
 		</dict>
 		<key>profile.cover_image.follow_status.follows_you_text</key>
 		<dict>
@@ -1733,13 +1723,13 @@
 		<key>profile.cover_image.user_link.click</key>
 		<dict>
 			<key>a</key>
-			<integer>179</integer>
+			<integer>128</integer>
 			<key>b</key>
-			<integer>100</integer>
-			<key>h</key>
-			<integer>212</integer>
-			<key>s</key>
-			<integer>30</integer>
+			<integer>255</integer>
+			<key>g</key>
+			<integer>204</integer>
+			<key>r</key>
+			<integer>164</integer>
 		</dict>
 		<key>profile.cover_image.user_link.hover</key>
 		<dict>
@@ -1766,74 +1756,76 @@
 		</dict>
 		<key>profile.description_text</key>
 		<dict>
-			<key>a</key>
-			<integer>0</integer>
 			<key>w</key>
-			<integer>0</integer>
+			<integer>179</integer>
 		</dict>
 		<key>profile.entity_textfield.hashtag</key>
 		<dict>
 			<key>w</key>
-			<integer>153</integer>
+			<integer>128</integer>
 		</dict>
 		<key>profile.entity_textfield.hashtag_selected</key>
 		<dict>
 			<key>a</key>
-			<integer>179</integer>
+			<integer>204</integer>
 			<key>w</key>
-			<integer>153</integer>
+			<integer>128</integer>
 		</dict>
 		<key>profile.entity_textfield.link</key>
 		<dict>
 			<key>b</key>
-			<integer>100</integer>
-			<key>h</key>
-			<integer>212</integer>
-			<key>s</key>
-			<integer>100</integer>
+			<integer>204</integer>
+			<key>g</key>
+			<integer>172</integer>
+			<key>r</key>
+			<integer>143</integer>
 		</dict>
 		<key>profile.entity_textfield.link_selected</key>
 		<dict>
 			<key>a</key>
-			<integer>179</integer>
+			<integer>204</integer>
 			<key>b</key>
-			<integer>100</integer>
-			<key>h</key>
-			<integer>212</integer>
-			<key>s</key>
-			<integer>100</integer>
+			<integer>204</integer>
+			<key>g</key>
+			<integer>172</integer>
+			<key>r</key>
+			<integer>143</integer>
 		</dict>
 		<key>profile.entity_textfield.mention</key>
 		<dict>
 			<key>b</key>
-			<integer>80</integer>
-			<key>h</key>
-			<integer>212</integer>
-			<key>s</key>
-			<integer>60</integer>
+			<integer>204</integer>
+			<key>g</key>
+			<integer>172</integer>
+			<key>r</key>
+			<integer>143</integer>
 		</dict>
 		<key>profile.entity_textfield.mention_selected</key>
 		<dict>
 			<key>a</key>
-			<integer>179</integer>
+			<integer>204</integer>
 			<key>b</key>
-			<integer>80</integer>
-			<key>h</key>
-			<integer>212</integer>
-			<key>s</key>
-			<integer>60</integer>
+			<integer>204</integer>
+			<key>g</key>
+			<integer>172</integer>
+			<key>r</key>
+			<integer>143</integer>
 		</dict>
 		<key>profile.entity_textfield.place</key>
 		<dict>
+			<key>a</key>
+			<integer>153</integer>
 			<key>w</key>
-			<integer>128</integer>
+			<integer>255</integer>
 		</dict>
 		<key>profile.entity_textfield.place_selected</key>
 		<dict>
-			<key>a</key>
-			<integer>179</integer>
-			<key>w</key>
-			<integer>128</integer>
+			<key>b</key>
+			<integer>100</integer>
+			<key>h</key>
+			<integer>180</integer>
+			<key>s</key>
+			<integer>100</integer>
 		</dict>
 		<key>profile.entity_textfield.stock</key>
 		<dict>
@@ -1850,7 +1842,7 @@
 		<key>profile.entity_textfield.text</key>
 		<dict>
 			<key>w</key>
-			<integer>26</integer>
+			<integer>255</integer>
 		</dict>
 		<key>profile.entity_textfield.text_selected</key>
 		<dict>
@@ -1867,38 +1859,38 @@
 		<key>profile.follow_button.background_highlighted</key>
 		<dict>
 			<key>b</key>
-			<integer>100</integer>
-			<key>h</key>
-			<integer>212</integer>
-			<key>s</key>
-			<integer>100</integer>
+			<integer>255</integer>
+			<key>g</key>
+			<integer>176</integer>
+			<key>r</key>
+			<integer>102</integer>
 		</dict>
 		<key>profile.follow_button.border</key>
 		<dict>
 			<key>b</key>
-			<integer>100</integer>
-			<key>h</key>
-			<integer>212</integer>
-			<key>s</key>
-			<integer>100</integer>
+			<integer>255</integer>
+			<key>g</key>
+			<integer>176</integer>
+			<key>r</key>
+			<integer>102</integer>
 		</dict>
 		<key>profile.follow_button.border_highlighted</key>
 		<dict>
 			<key>b</key>
-			<integer>100</integer>
-			<key>h</key>
-			<integer>212</integer>
-			<key>s</key>
-			<integer>100</integer>
+			<integer>255</integer>
+			<key>g</key>
+			<integer>176</integer>
+			<key>r</key>
+			<integer>102</integer>
 		</dict>
 		<key>profile.follow_button.text</key>
 		<dict>
 			<key>b</key>
-			<integer>100</integer>
-			<key>h</key>
-			<integer>212</integer>
-			<key>s</key>
-			<integer>100</integer>
+			<integer>255</integer>
+			<key>g</key>
+			<integer>176</integer>
+			<key>r</key>
+			<integer>102</integer>
 		</dict>
 		<key>profile.follow_button.text_highlighted</key>
 		<dict>
@@ -1908,7 +1900,7 @@
 		<key>profile.follow_status.does_not_follow_you_background</key>
 		<dict>
 			<key>w</key>
-			<integer>179</integer>
+			<integer>102</integer>
 		</dict>
 		<key>profile.follow_status.does_not_follow_you_text</key>
 		<dict>
@@ -1918,16 +1910,20 @@
 		<key>profile.follow_status.follows_you_background</key>
 		<dict>
 			<key>b</key>
-			<integer>100</integer>
-			<key>h</key>
-			<integer>212</integer>
-			<key>s</key>
-			<integer>80</integer>
+			<integer>153</integer>
+			<key>g</key>
+			<integer>112</integer>
+			<key>r</key>
+			<integer>76</integer>
 		</dict>
 		<key>profile.follow_status.follows_you_text</key>
 		<dict>
-			<key>w</key>
+			<key>b</key>
 			<integer>255</integer>
+			<key>g</key>
+			<integer>218</integer>
+			<key>r</key>
+			<integer>193</integer>
 		</dict>
 		<key>profile.follow_status.getting_status_background</key>
 		<dict>
@@ -1991,27 +1987,27 @@
 		<key>profile.screen_name</key>
 		<dict>
 			<key>w</key>
-			<integer>128</integer>
+			<integer>179</integer>
 		</dict>
 		<key>profile.unfollow_button.background</key>
 		<dict>
 			<key>b</key>
-			<integer>80</integer>
+			<integer>100</integer>
 			<key>h</key>
 			<integer>360</integer>
 			<key>s</key>
-			<integer>90</integer>
+			<integer>70</integer>
 		</dict>
 		<key>profile.unfollow_button.background_highlighted</key>
 		<dict>
 			<key>a</key>
 			<integer>179</integer>
 			<key>b</key>
-			<integer>80</integer>
+			<integer>100</integer>
 			<key>h</key>
 			<integer>360</integer>
 			<key>s</key>
-			<integer>90</integer>
+			<integer>70</integer>
 		</dict>
 		<key>profile.unfollow_button.border</key>
 		<dict>
@@ -2051,25 +2047,25 @@
 		<key>profile.user_link.hover</key>
 		<dict>
 			<key>b</key>
-			<integer>100</integer>
-			<key>h</key>
-			<integer>212</integer>
-			<key>s</key>
-			<integer>100</integer>
+			<integer>255</integer>
+			<key>g</key>
+			<integer>204</integer>
+			<key>r</key>
+			<integer>164</integer>
 		</dict>
 		<key>profile.user_link.normal</key>
 		<dict>
 			<key>b</key>
-			<integer>100</integer>
-			<key>h</key>
-			<integer>212</integer>
-			<key>s</key>
-			<integer>100</integer>
+			<integer>255</integer>
+			<key>g</key>
+			<integer>204</integer>
+			<key>r</key>
+			<integer>164</integer>
 		</dict>
 		<key>profile.username</key>
 		<dict>
 			<key>w</key>
-			<integer>26</integer>
+			<integer>255</integer>
 		</dict>
 		<key>standard_section.gap_load_older.background</key>
 		<dict>
