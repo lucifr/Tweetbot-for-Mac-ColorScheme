@@ -2338,6 +2338,33 @@
 			<key>r</key>
 			<integer>122</integer>
 		</dict>
+		<key>status_view.mention.quoted.screen_name</key>
+		<dict>
+			<key>b</key>
+			<integer>80</integer>
+			<key>h</key>
+			<integer>212</integer>
+			<key>s</key>
+			<integer>40</integer>
+		</dict>
+		<key>status_view.mention.quoted.text</key>
+		<dict>
+			<key>b</key>
+			<integer>80</integer>
+			<key>h</key>
+			<integer>212</integer>
+			<key>s</key>
+			<integer>40</integer>
+		</dict>
+		<key>status_view.mention.quoted.user_name</key>
+		<dict>
+			<key>b</key>
+			<integer>90</integer>
+			<key>h</key>
+			<integer>212</integer>
+			<key>s</key>
+			<integer>30</integer>
+		</dict>
 		<key>status_view.mention.retweeted</key>
 		<dict>
 			<key>b</key>
@@ -2739,6 +2766,21 @@
 			<key>r</key>
 			<integer>255</integer>
 		</dict>
+		<key>status_view.normal.quoted.screen_name</key>
+		<dict>
+			<key>w</key>
+			<integer>128</integer>
+		</dict>
+		<key>status_view.normal.quoted.text</key>
+		<dict>
+			<key>w</key>
+			<integer>128</integer>
+		</dict>
+		<key>status_view.normal.quoted.user_name</key>
+		<dict>
+			<key>w</key>
+			<integer>179</integer>
+		</dict>
 		<key>status_view.normal.retweeted</key>
 		<dict>
 			<key>w</key>
@@ -2906,6 +2948,21 @@
 			<integer>204</integer>
 			<key>w</key>
 			<integer>153</integer>
+		</dict>
+		<key>status_view.selected.quoted.screen_name</key>
+		<dict>
+			<key>w</key>
+			<integer>153</integer>
+		</dict>
+		<key>status_view.selected.quoted.text</key>
+		<dict>
+			<key>w</key>
+			<integer>153</integer>
+		</dict>
+		<key>status_view.selected.quoted.user_name</key>
+		<dict>
+			<key>w</key>
+			<integer>204</integer>
 		</dict>
 		<key>status_view.selected.retweeted</key>
 		<dict>
