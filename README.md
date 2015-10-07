@@ -2,7 +2,7 @@
 
 ## Description
 
-Colors.plist for Tweetbot for Mac 2.0.
+Colors.plist for Tweetbot for Mac 2.1.
 
 The Night theme is based on the iOS version.
 
@@ -18,3 +18,7 @@ The Night theme is based on the iOS version.
 
 * It's NOT thoroughly tested. There might be some unmatched colors.
 * Pull requests welcome.
+
+## Screenshot
+
+![Night ColorScheme for Tweetbot for Mac](https://raw.githubusercontent.com/lucifr/Tweetbot-for-Mac-ColorScheme/master/screenshots/night_two_column.png)
