@@ -18,12 +18,12 @@
 		</dict>
 		<key>control_cell.action</key>
 		<dict>
+			<key>h</key>
+			<integer>212</integer>
+			<key>s</key>
+			<integer>40</integer>
 			<key>b</key>
-			<integer>255</integer>
-			<key>g</key>
-			<integer>176</integer>
-			<key>r</key>
-			<integer>102</integer>
+			<integer>80</integer>
 		</dict>
 		<key>control_cell.action_highlighted</key>
 		<dict>
@@ -32,14 +32,14 @@
 		</dict>
 		<key>control_cell.action_selected</key>
 		<dict>
-			<key>a</key>
-			<integer>153</integer>
+			<key>r</key>
+			<integer>128</integer>
 			<key>b</key>
-			<integer>100</integer>
-			<key>h</key>
-			<integer>212</integer>
-			<key>s</key>
-			<integer>100</integer>
+			<integer>255</integer>
+			<key>g</key>
+			<integer>187</integer>
+			<key>a</key>
+			<integer>128</integer>
 		</dict>
 		<key>control_cell.background</key>
 		<dict>
@@ -48,12 +48,12 @@
 		</dict>
 		<key>control_cell.background_highlighted</key>
 		<dict>
+			<key>h</key>
+			<integer>212</integer>
+			<key>s</key>
+			<integer>40</integer>
 			<key>b</key>
-			<integer>255</integer>
-			<key>g</key>
-			<integer>176</integer>
-			<key>r</key>
-			<integer>102</integer>
+			<integer>80</integer>
 		</dict>
 		<key>control_cell.border</key>
 		<dict>
@@ -412,20 +412,22 @@
 		<key>main_window.add_account_button.fill</key>
 		<dict>
 			<key>b</key>
-			<integer>100</integer>
+			<integer>80</integer>
 			<key>h</key>
 			<integer>212</integer>
 			<key>s</key>
-			<integer>80</integer>
+			<integer>40</integer>
 		</dict>
 		<key>main_window.add_account_button.fill_highlighted</key>
 		<dict>
+			<key>r</key>
+			<integer>128</integer>
 			<key>b</key>
-			<integer>100</integer>
-			<key>h</key>
-			<integer>212</integer>
-			<key>s</key>
-			<integer>60</integer>
+			<integer>255</integer>
+			<key>g</key>
+			<integer>187</integer>
+			<key>a</key>
+			<integer>128</integer>
 		</dict>
 		<key>main_window.add_account_button.icon</key>
 		<dict>
@@ -3020,7 +3022,7 @@
 		<key>status_view.selected.media_background</key>
 		<dict>
 			<key>w</key>
-			<integer>92</integer>
+			<integer>0</integer>
 		</dict>
 		<key>status_view.selected.media_border</key>
 		<dict>
