@@ -1077,6 +1077,20 @@
 			<key>r</key>
 			<integer>164</integer>
 		</dict>
+		<key>post.conversation.status_view.media_background</key>
+		<dict>
+			<key>a</key>
+			<integer>13</integer>
+			<key>w</key>
+			<integer>0</integer>
+		</dict>
+		<key>post.conversation.status_view.media_border</key>
+		<dict>
+			<key>a</key>
+			<integer>26</integer>
+			<key>w</key>
+			<integer>0</integer>
+		</dict>
 		<key>post.conversation.status_view.mention</key>
 		<dict>
 			<key>b</key>
@@ -2209,8 +2223,12 @@
 		</dict>
 		<key>status_detail.buttons.background</key>
 		<dict>
-			<key>w</key>
-			<integer>128</integer>
+			<key>h</key>
+			<integer>212</integer>
+			<key>s</key>
+			<integer>40</integer>
+			<key>b</key>
+			<integer>80</integer>
 		</dict>
 		<key>status_detail.buttons.tint</key>
 		<dict>
@@ -2227,16 +2245,16 @@
 		<key>status_detail.detail_buttons.background</key>
 		<dict>
 			<key>w</key>
-			<integer>102</integer>
+			<integer>51</integer>
 		</dict>
 		<key>status_detail.detail_buttons.background_highlighted</key>
 		<dict>
+			<key>h</key>
+			<integer>212</integer>
+			<key>s</key>
+			<integer>40</integer>
 			<key>b</key>
-			<integer>255</integer>
-			<key>g</key>
-			<integer>176</integer>
-			<key>r</key>
-			<integer>102</integer>
+			<integer>80</integer>
 		</dict>
 		<key>status_detail.detail_buttons.background_selected</key>
 		<dict>
@@ -2246,7 +2264,7 @@
 		<key>status_detail.detail_buttons.divider_line</key>
 		<dict>
 			<key>w</key>
-			<integer>128</integer>
+			<integer>77</integer>
 		</dict>
 		<key>status_detail.detail_buttons.text</key>
 		<dict>
@@ -2260,52 +2278,52 @@
 		</dict>
 		<key>status_view.mention.avatar_highlighted_outline</key>
 		<dict>
-			<key>a</key>
-			<integer>153</integer>
+			<key>r</key>
+			<integer>0</integer>
 			<key>b</key>
 			<integer>51</integer>
 			<key>g</key>
 			<integer>24</integer>
-			<key>r</key>
-			<integer>0</integer>
+			<key>a</key>
+			<integer>153</integer>
 		</dict>
 		<key>status_view.mention.avatar_outline</key>
 		<dict>
+			<key>b</key>
+			<integer>20</integer>
+			<key>s</key>
+			<integer>100</integer>
+			<key>h</key>
+			<integer>212</integer>
 			<key>a</key>
 			<integer>77</integer>
-			<key>b</key>
-			<integer>51</integer>
-			<key>g</key>
-			<integer>24</integer>
-			<key>r</key>
-			<integer>0</integer>
 		</dict>
 		<key>status_view.mention.background</key>
 		<dict>
+			<key>h</key>
+			<integer>212</integer>
+			<key>s</key>
+			<integer>20</integer>
 			<key>b</key>
-			<integer>128</integer>
-			<key>g</key>
-			<integer>94</integer>
-			<key>r</key>
-			<integer>64</integer>
+			<integer>30</integer>
 		</dict>
 		<key>status_view.mention.conversation_icon</key>
 		<dict>
-			<key>b</key>
-			<integer>204</integer>
 			<key>g</key>
 			<integer>160</integer>
 			<key>r</key>
 			<integer>122</integer>
+			<key>b</key>
+			<integer>204</integer>
 		</dict>
 		<key>status_view.mention.favorite_icon</key>
 		<dict>
-			<key>b</key>
-			<integer>0</integer>
 			<key>g</key>
 			<integer>174</integer>
 			<key>r</key>
 			<integer>255</integer>
+			<key>b</key>
+			<integer>0</integer>
 		</dict>
 		<key>status_view.mention.hashtag</key>
 		<dict>
@@ -2329,23 +2347,23 @@
 		</dict>
 		<key>status_view.mention.link</key>
 		<dict>
-			<key>b</key>
-			<integer>255</integer>
 			<key>g</key>
 			<integer>228</integer>
 			<key>r</key>
 			<integer>204</integer>
+			<key>b</key>
+			<integer>255</integer>
 		</dict>
 		<key>status_view.mention.link_highlighted</key>
 		<dict>
-			<key>a</key>
-			<integer>128</integer>
+			<key>r</key>
+			<integer>204</integer>
 			<key>b</key>
 			<integer>255</integer>
 			<key>g</key>
 			<integer>228</integer>
-			<key>r</key>
-			<integer>204</integer>
+			<key>a</key>
+			<integer>128</integer>
 		</dict>
 		<key>status_view.mention.marker_back</key>
 		<dict>
@@ -2395,43 +2413,43 @@
 		</dict>
 		<key>status_view.mention.mention</key>
 		<dict>
+			<key>h</key>
+			<integer>212</integer>
+			<key>s</key>
+			<integer>30</integer>
 			<key>b</key>
-			<integer>229</integer>
-			<key>g</key>
-			<integer>168</integer>
-			<key>r</key>
-			<integer>115</integer>
+			<integer>90</integer>
 		</dict>
 		<key>status_view.mention.mention_highlighted</key>
 		<dict>
+			<key>b</key>
+			<integer>90</integer>
+			<key>s</key>
+			<integer>30</integer>
+			<key>h</key>
+			<integer>212</integer>
 			<key>a</key>
 			<integer>128</integer>
-			<key>b</key>
-			<integer>229</integer>
-			<key>g</key>
-			<integer>168</integer>
-			<key>r</key>
-			<integer>115</integer>
 		</dict>
 		<key>status_view.mention.place</key>
 		<dict>
+			<key>h</key>
+			<integer>212</integer>
+			<key>s</key>
+			<integer>20</integer>
 			<key>b</key>
-			<integer>204</integer>
-			<key>g</key>
-			<integer>160</integer>
-			<key>r</key>
-			<integer>122</integer>
+			<integer>80</integer>
 		</dict>
 		<key>status_view.mention.place_highlighted</key>
 		<dict>
+			<key>b</key>
+			<integer>80</integer>
+			<key>s</key>
+			<integer>20</integer>
+			<key>h</key>
+			<integer>212</integer>
 			<key>a</key>
 			<integer>128</integer>
-			<key>b</key>
-			<integer>204</integer>
-			<key>g</key>
-			<integer>160</integer>
-			<key>r</key>
-			<integer>122</integer>
 		</dict>
 		<key>status_view.mention.quoted.screen_name</key>
 		<dict>
@@ -2440,7 +2458,7 @@
 			<key>h</key>
 			<integer>212</integer>
 			<key>s</key>
-			<integer>40</integer>
+			<integer>20</integer>
 		</dict>
 		<key>status_view.mention.quoted.text</key>
 		<dict>
@@ -2449,7 +2467,7 @@
 			<key>h</key>
 			<integer>212</integer>
 			<key>s</key>
-			<integer>40</integer>
+			<integer>20</integer>
 		</dict>
 		<key>status_view.mention.quoted.user_name</key>
 		<dict>
@@ -2458,61 +2476,63 @@
 			<key>h</key>
 			<integer>212</integer>
 			<key>s</key>
-			<integer>30</integer>
+			<integer>20</integer>
 		</dict>
 		<key>status_view.mention.retweeted</key>
 		<dict>
+			<key>h</key>
+			<integer>212</integer>
+			<key>s</key>
+			<integer>20</integer>
 			<key>b</key>
-			<integer>204</integer>
-			<key>g</key>
-			<integer>160</integer>
-			<key>r</key>
-			<integer>122</integer>
+			<integer>80</integer>
 		</dict>
 		<key>status_view.mention.retweeted_highlighted</key>
 		<dict>
+			<key>b</key>
+			<integer>80</integer>
+			<key>s</key>
+			<integer>20</integer>
+			<key>h</key>
+			<integer>212</integer>
 			<key>a</key>
 			<integer>128</integer>
-			<key>b</key>
-			<integer>204</integer>
-			<key>g</key>
-			<integer>160</integer>
-			<key>r</key>
-			<integer>122</integer>
 		</dict>
 		<key>status_view.mention.screen_name</key>
 		<dict>
+			<key>h</key>
+			<integer>212</integer>
+			<key>s</key>
+			<integer>20</integer>
 			<key>b</key>
-			<integer>255</integer>
-			<key>g</key>
-			<integer>214</integer>
-			<key>r</key>
-			<integer>178</integer>
+			<integer>80</integer>
 		</dict>
 		<key>status_view.mention.separator</key>
 		<dict>
-			<key>a</key>
-			<integer>80</integer>
-			<key>w</key>
-			<integer>102</integer>
+			<key>h</key>
+			<integer>212</integer>
+			<key>s</key>
+			<integer>30</integer>
+			<key>b</key>
+			<integer>40</integer>
 		</dict>
 		<key>status_view.mention.text</key>
 		<dict>
+			<key>h</key>
+			<integer>212</integer>
+			<key>s</key>
+			<integer>10</integer>
 			<key>b</key>
-			<integer>255</integer>
-			<key>g</key>
-			<integer>214</integer>
-			<key>r</key>
-			<integer>178</integer>
+			<integer>90</integer>
 		</dict>
 		<key>status_view.mention.time</key>
 		<dict>
+			<key>h</key>
+			<integer>212</integer>
+			<key>s</key>
+			<integer>20</integer>
 			<key>b</key>
-			<integer>204</integer>
-			<key>g</key>
-			<integer>160</integer>
-			<key>r</key>
-			<integer>122</integer>
+			<integer>60</integer>
 		</dict>
 		<key>status_view.mention.user_name</key>
 		<dict>
@@ -2930,12 +2950,21 @@
 		<key>status_view.selected.background</key>
 		<dict>
 			<key>w</key>
-			<integer>102</integer>
+			<integer>38</integer>
 		</dict>
 		<key>status_view.selected.conversation_icon</key>
 		<dict>
 			<key>w</key>
 			<integer>153</integer>
+		</dict>
+		<key>status_view.selected.favorite_highlighted_icon</key>
+		<dict>
+			<key>b</key>
+			<integer>0</integer>
+			<key>g</key>
+			<integer>164</integer>
+			<key>r</key>
+			<integer>245</integer>
 		</dict>
 		<key>status_view.selected.favorite_icon</key>
 		<dict>
@@ -3012,6 +3041,197 @@
 			<key>w</key>
 			<integer>255</integer>
 		</dict>
+		<key>status_view.selected.media_status_view.normal.avatar_highlighted_outline</key>
+		<dict>
+			<key>a</key>
+			<integer>153</integer>
+			<key>w</key>
+			<integer>0</integer>
+		</dict>
+		<key>status_view.selected.media_status_view.normal.avatar_outline</key>
+		<dict>
+			<key>a</key>
+			<integer>77</integer>
+			<key>w</key>
+			<integer>0</integer>
+		</dict>
+		<key>status_view.selected.media_status_view.normal.background</key>
+		<dict>
+			<key>a</key>
+			<integer>153</integer>
+			<key>w</key>
+			<integer>0</integer>
+		</dict>
+		<key>status_view.selected.media_status_view.normal.conversation_icon</key>
+		<dict>
+			<key>w</key>
+			<integer>153</integer>
+		</dict>
+		<key>status_view.selected.media_status_view.normal.favorite_icon</key>
+		<dict>
+			<key>b</key>
+			<integer>0</integer>
+			<key>g</key>
+			<integer>174</integer>
+			<key>r</key>
+			<integer>255</integer>
+		</dict>
+		<key>status_view.selected.media_status_view.normal.hashtag</key>
+		<dict>
+			<key>a</key>
+			<integer>153</integer>
+			<key>w</key>
+			<integer>255</integer>
+		</dict>
+		<key>status_view.selected.media_status_view.normal.hashtag_highlighted</key>
+		<dict>
+			<key>a</key>
+			<integer>128</integer>
+			<key>w</key>
+			<integer>179</integer>
+		</dict>
+		<key>status_view.selected.media_status_view.normal.link</key>
+		<dict>
+			<key>b</key>
+			<integer>255</integer>
+			<key>g</key>
+			<integer>204</integer>
+			<key>r</key>
+			<integer>164</integer>
+		</dict>
+		<key>status_view.selected.media_status_view.normal.link_highlighted</key>
+		<dict>
+			<key>a</key>
+			<integer>128</integer>
+			<key>b</key>
+			<integer>255</integer>
+			<key>g</key>
+			<integer>122</integer>
+			<key>r</key>
+			<integer>0</integer>
+		</dict>
+		<key>status_view.selected.media_status_view.normal.marker_back</key>
+		<dict>
+			<key>w</key>
+			<integer>179</integer>
+		</dict>
+		<key>status_view.selected.media_status_view.normal.marker_behind</key>
+		<dict>
+			<key>w</key>
+			<integer>230</integer>
+		</dict>
+		<key>status_view.selected.media_status_view.normal.media_background</key>
+		<dict>
+			<key>w</key>
+			<integer>245</integer>
+		</dict>
+		<key>status_view.selected.media_status_view.normal.media_border</key>
+		<dict>
+			<key>a</key>
+			<integer>26</integer>
+			<key>w</key>
+			<integer>0</integer>
+		</dict>
+		<key>status_view.selected.media_status_view.normal.media_highlighted_overlay</key>
+		<dict>
+			<key>a</key>
+			<integer>77</integer>
+			<key>w</key>
+			<integer>0</integer>
+		</dict>
+		<key>status_view.selected.media_status_view.normal.mention</key>
+		<dict>
+			<key>b</key>
+			<integer>193</integer>
+			<key>g</key>
+			<integer>156</integer>
+			<key>r</key>
+			<integer>125</integer>
+		</dict>
+		<key>status_view.selected.media_status_view.normal.mention_highlighted</key>
+		<dict>
+			<key>a</key>
+			<integer>128</integer>
+			<key>b</key>
+			<integer>179</integer>
+			<key>g</key>
+			<integer>132</integer>
+			<key>r</key>
+			<integer>89</integer>
+		</dict>
+		<key>status_view.selected.media_status_view.normal.place</key>
+		<dict>
+			<key>w</key>
+			<integer>179</integer>
+		</dict>
+		<key>status_view.selected.media_status_view.normal.place_highlighted</key>
+		<dict>
+			<key>a</key>
+			<integer>128</integer>
+			<key>w</key>
+			<integer>179</integer>
+		</dict>
+		<key>status_view.selected.media_status_view.normal.popular_icon</key>
+		<dict>
+			<key>b</key>
+			<integer>0</integer>
+			<key>g</key>
+			<integer>174</integer>
+			<key>r</key>
+			<integer>255</integer>
+		</dict>
+		<key>status_view.selected.media_status_view.normal.retweeted</key>
+		<dict>
+			<key>a</key>
+			<integer>153</integer>
+			<key>w</key>
+			<integer>255</integer>
+		</dict>
+		<key>status_view.selected.media_status_view.normal.retweeted_highlighted</key>
+		<dict>
+			<key>a</key>
+			<integer>128</integer>
+			<key>w</key>
+			<integer>179</integer>
+		</dict>
+		<key>status_view.selected.media_status_view.normal.screen_name</key>
+		<dict>
+			<key>a</key>
+			<integer>204</integer>
+			<key>w</key>
+			<integer>255</integer>
+		</dict>
+		<key>status_view.selected.media_status_view.normal.selected_background</key>
+		<dict>
+			<key>a</key>
+			<integer>0</integer>
+			<key>w</key>
+			<integer>0</integer>
+		</dict>
+		<key>status_view.selected.media_status_view.normal.separator</key>
+		<dict>
+			<key>w</key>
+			<integer>204</integer>
+		</dict>
+		<key>status_view.selected.media_status_view.normal.text</key>
+		<dict>
+			<key>a</key>
+			<integer>204</integer>
+			<key>w</key>
+			<integer>255</integer>
+		</dict>
+		<key>status_view.selected.media_status_view.normal.time</key>
+		<dict>
+			<key>a</key>
+			<integer>153</integer>
+			<key>w</key>
+			<integer>255</integer>
+		</dict>
+		<key>status_view.selected.media_status_view.normal.user_name</key>
+		<dict>
+			<key>w</key>
+			<integer>255</integer>
+		</dict>
 		<key>status_view.selected.mention</key>
 		<dict>
 			<key>b</key>
@@ -3043,6 +3263,15 @@
 			<integer>204</integer>
 			<key>w</key>
 			<integer>153</integer>
+		</dict>
+		<key>status_view.selected.popular_icon</key>
+		<dict>
+			<key>b</key>
+			<integer>0</integer>
+			<key>g</key>
+			<integer>174</integer>
+			<key>r</key>
+			<integer>255</integer>
 		</dict>
 		<key>status_view.selected.quoted.screen_name</key>
 		<dict>
