@@ -2,7 +2,7 @@
 
 ## Description
 
-Colors.plist for Tweetbot for Mac 2.1.
+Colors.plist for Tweetbot for Mac 2.x.
 
 The Night theme is based on the iOS version.
 
