@@ -465,6 +465,13 @@
 			<key>w</key>
 			<integer>255</integer>
 		</dict>
+		<key>max_width_vertical_divider</key>
+		<dict>
+			<key>a</key>
+			<integer>77</integer>
+			<key>w</key>
+			<integer>0</integer>
+		</dict>
 		<key>media_cell.background</key>
 		<dict>
 			<key>w</key>
@@ -2568,20 +2575,20 @@
 		<key>status_view.normal.favorite_highlighted_icon</key>
 		<dict>
 			<key>b</key>
-			<integer>0</integer>
-			<key>g</key>
-			<integer>164</integer>
-			<key>r</key>
-			<integer>245</integer>
+			<integer>90</integer>
+			<key>h</key>
+			<integer>350</integer>
+			<key>s</key>
+			<integer>100</integer>
 		</dict>
 		<key>status_view.normal.favorite_icon</key>
 		<dict>
 			<key>b</key>
-			<integer>0</integer>
-			<key>g</key>
-			<integer>174</integer>
-			<key>r</key>
-			<integer>255</integer>
+			<integer>90</integer>
+			<key>h</key>
+			<integer>350</integer>
+			<key>s</key>
+			<integer>100</integer>
 		</dict>
 		<key>status_view.normal.hashtag</key>
 		<dict>
@@ -2962,20 +2969,20 @@
 		<key>status_view.selected.favorite_highlighted_icon</key>
 		<dict>
 			<key>b</key>
-			<integer>0</integer>
-			<key>g</key>
-			<integer>164</integer>
-			<key>r</key>
-			<integer>245</integer>
+			<integer>90</integer>
+			<key>h</key>
+			<integer>350</integer>
+			<key>s</key>
+			<integer>100</integer>
 		</dict>
 		<key>status_view.selected.favorite_icon</key>
 		<dict>
 			<key>b</key>
-			<integer>83</integer>
-			<key>g</key>
-			<integer>204</integer>
-			<key>r</key>
-			<integer>254</integer>
+			<integer>90</integer>
+			<key>h</key>
+			<integer>350</integer>
+			<key>s</key>
+			<integer>100</integer>
 		</dict>
 		<key>status_view.selected.hashtag</key>
 		<dict>
@@ -3407,7 +3414,7 @@
 			<key>b</key>
 			<integer>100</integer>
 			<key>h</key>
-			<integer>40</integer>
+			<integer>350</integer>
 			<key>s</key>
 			<integer>100</integer>
 		</dict>
