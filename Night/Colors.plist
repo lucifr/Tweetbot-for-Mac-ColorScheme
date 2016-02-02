@@ -2327,12 +2327,12 @@
 		</dict>
 		<key>status_view.mention.favorite_icon</key>
 		<dict>
-			<key>g</key>
-			<integer>174</integer>
-			<key>r</key>
-			<integer>255</integer>
 			<key>b</key>
-			<integer>0</integer>
+			<integer>90</integer>
+			<key>h</key>
+			<integer>350</integer>
+			<key>s</key>
+			<integer>100</integer>
 		</dict>
 		<key>status_view.mention.hashtag</key>
 		<dict>
