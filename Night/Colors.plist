@@ -16,6 +16,35 @@
 			<key>w</key>
 			<integer>26</integer>
 		</dict>
+		<key>collection.header_cell.background</key>
+		<dict>
+			<key>w</key>
+			<integer>77</integer>
+		</dict>
+		<key>collection.header_cell.curated_by</key>
+		<dict>
+			<key>w</key>
+			<integer>179</integer>
+		</dict>
+		<key>collection.header_cell.description</key>
+		<dict>
+			<key>w</key>
+			<integer>179</integer>
+		</dict>
+		<key>collection.header_cell.name</key>
+		<dict>
+			<key>w</key>
+			<integer>255</integer>
+		</dict>
+		<key>collection.header_cell.user_name</key>
+		<dict>
+			<key>h</key>
+			<integer>212</integer>
+			<key>s</key>
+			<integer>40</integer>
+			<key>b</key>
+			<integer>80</integer>
+		</dict>
 		<key>control_cell.action</key>
 		<dict>
 			<key>h</key>
@@ -1333,6 +1362,37 @@
 			<key>w</key>
 			<integer>255</integer>
 		</dict>
+		<key>post.quoted_tweet.background</key>
+		<dict>
+			<key>b</key>
+			<integer>239</integer>
+			<key>g</key>
+			<integer>237</integer>
+			<key>r</key>
+			<integer>233</integer>
+		</dict>
+		<key>post.quoted_tweet.border</key>
+		<dict>
+			<key>a</key>
+			<integer>26</integer>
+			<key>w</key>
+			<integer>0</integer>
+		</dict>
+		<key>post.quoted_tweet.screen_name</key>
+		<dict>
+			<key>w</key>
+			<integer>153</integer>
+		</dict>
+		<key>post.quoted_tweet.text</key>
+		<dict>
+			<key>w</key>
+			<integer>153</integer>
+		</dict>
+		<key>post.quoted_tweet.user_name</key>
+		<dict>
+			<key>w</key>
+			<integer>77</integer>
+		</dict>
 		<key>post.search_items.divider</key>
 		<dict>
 			<key>w</key>
@@ -1384,6 +1444,45 @@
 			<integer>80</integer>
 		</dict>
 		<key>post.toolbar.counter_text_good</key>
+		<dict>
+			<key>w</key>
+			<integer>179</integer>
+		</dict>
+		<key>post.topic.background</key>
+		<dict>
+			<key>h</key>
+			<integer>212</integer>
+			<key>s</key>
+			<integer>40</integer>
+			<key>b</key>
+			<integer>80</integer>
+		</dict>
+		<key>post.topic.name</key>
+		<dict>
+			<key>w</key>
+			<integer>255</integer>
+		</dict>
+		<key>post.topics.create_button</key>
+		<dict>
+			<key>h</key>
+			<integer>214</integer>
+			<key>s</key>
+			<integer>36</integer>
+			<key>b</key>
+			<integer>100</integer>
+		</dict>
+		<key>post.topics.create_button_highlighted</key>
+		<dict>
+			<key>b</key>
+			<integer>100</integer>
+			<key>s</key>
+			<integer>36</integer>
+			<key>h</key>
+			<integer>214</integer>
+			<key>a</key>
+			<integer>128</integer>
+		</dict>
+		<key>post.topics.nothing_found_text</key>
 		<dict>
 			<key>w</key>
 			<integer>179</integer>
